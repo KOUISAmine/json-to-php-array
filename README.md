@@ -1,2 +1,5 @@
-# json-to-php-array
-Convert a valid JSON string to PHP array syntax.
+# JSON to PHP Array [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+>Convert a valid JSON string to PHP array syntax.
+
+Try demo: https://tools.waytolearnx.com/json-to-php
